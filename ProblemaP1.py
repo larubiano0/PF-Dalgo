@@ -1,3 +1,4 @@
+# Sebastián Gaona, Isaac Bermudez, Luis Rubiano
 import sys
 from math import sqrt, floor
 
